@@ -421,6 +421,7 @@ img {
 }
 /*==================== SKILLS ====================*/
 .skills__container {
+  max-width: 500px;
   row-gap: 0;
 }
 .skills__header {
@@ -1031,7 +1032,6 @@ img {
     justify-self: center;
   }
   .about__container,
-  .skills__container,
   .portfolio__content,
   .project__container,
   .contact__container,
